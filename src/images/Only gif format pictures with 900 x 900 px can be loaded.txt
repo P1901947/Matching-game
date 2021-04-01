@@ -1,0 +1,1 @@
+Only gif format pictures with 900 x 900 px can be loaded
