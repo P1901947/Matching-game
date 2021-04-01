@@ -10,6 +10,7 @@
 ### ......
 
 ## Software development plan
+-Nowadays people have more stressful in daily life, no matter adult, student, or even children and usually, they do not have enough time to relax themself. Therefore we want to invent a game that is more time-efficient and simple to let everyone can take a rest anytime, anyplace. 
 ### Development Process
 - Planning-->Pre-production-->Production-->Testing-->Pre-launch-->Launch-->Post-production
 ### Members (Roles & Responsibilities & Portion)
