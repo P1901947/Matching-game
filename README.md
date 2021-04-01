@@ -11,7 +11,7 @@
 
 ## Software development plan
 ### Development Process
-
+- Planning-->Pre-production-->Production-->Testing-->Pre-launch-->Launch-->Post-production
 ### Members (Roles & Responsibilities & Portion)
 Alex and Mia
 
@@ -20,5 +20,5 @@ Alex and Mia
 ### Algorithm
 
 ## Current status of your software
-Planning-->Pre-production-->Production-->Testing-->Pre-launch(Current status)-->Launch-->Post-production
+- Pre-launch status
 ## Future plan
