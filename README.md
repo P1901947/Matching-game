@@ -19,6 +19,6 @@ Alex and Mia
 
 ### Algorithm
 
-## Current status of your software
+## Current status of our software
 - Pre-launch status
 ## Future plan
