@@ -2,9 +2,9 @@
 ## Graphical Abstract
 ### 圖
 
-Programming language: python
-Minimum H/W: Supporting Officially python3.9 and above, Window 10 PCs
-Required packages: python internal packages
+- Programming language: python
+- Minimum H/W: Supporting Officially python3.9 and above, Window 10 PCs
+- Required packages: python internal packages
 
 ## Purpose of the software includes:
 ### ......
