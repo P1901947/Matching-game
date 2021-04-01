@@ -14,7 +14,7 @@ Alex and Mia
 ### Schedule
 
 ### Algorithm
-Planning-->Pre-production-->Production-->Testing-->Pre-launch(Current status)-->Launch-->Post-production
-## Current status of your software
 
+## Current status of your software
+Planning-->Pre-production-->Production-->Testing-->Pre-launch(Current status)-->Launch-->Post-production
 ## Future plan
