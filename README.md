@@ -6,4 +6,14 @@
 ### ......
 
 ## Software development plan
-### 
+### Development Process
+
+### Members (Roles & Responsibilities & Portion)
+
+### Schedule
+
+### Algorithm
+
+## Current status of your software
+
+## Future plan
