@@ -9,11 +9,12 @@
 ### Development Process
 
 ### Members (Roles & Responsibilities & Portion)
+Alex and Mia
 
 ### Schedule
 
 ### Algorithm
-
+Planning-->Pre-production-->Production-->Testing-->Pre-launch(Current status)-->L
 ## Current status of your software
 
 ## Future plan
