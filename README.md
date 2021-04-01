@@ -19,7 +19,7 @@ Alex and Mia
 ### Schedule
 
 ### Algorithm
-
+Python language
 ## Current status of our software
 - Pre-launch status
 ## Future plan
