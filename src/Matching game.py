@@ -1,36 +1,32 @@
 from random import *
 from turtle import *
+import images.LoadImages
 import os
 
-def path(filename):
-    "Return full path to `filename` in freegames module."
-    filepath = os.path.realpath(__file__)
-    dirpath = os.path.dirname(filepath)
-    fullpath = os.path.join(dirpath, 'images', filename)
-    return fullpath
+def path(imageName):
+    filePath = os.path.realpath(__file__)
+    directoryPath = os.path.dirname(filePath)
+    fullPath = os.path.join(directoryPath, 'images', imageName)
+    return fullPath
 
-def square(x, y):
-    "Draw white square with black outline at (x, y)."
+def paintSquare(x, y):
     up()
     goto(x, y)
     down()
-    color('white', 'black')
+    color('white', 'dimgray')
     begin_fill()
     for count in range(4):
-        forward(100)
+        forward(150)
         left(90)
     end_fill()
 
 def index(x, y):
-    "Convert (x, y) coordinates to tiles index."
-    return int((x + 200) // 100 + ((y + 200) // 100) * 4)
+    return int((x + 450) // 150 + ((y + 450) // 150) * 6)
 
-def xy(count):
-    "Convert tiles count to (x, y) coordinates."
-    return (count % 4) * 100 - 200, (count // 4) * 100 - 200
+def location(count):
+    return (count % 6) * 150 - 450, (count // 6) * 150 - 450
 
-def tap(x, y):
-    "Update mark and hidden tiles based on tap."
+def leftClick(x, y):
     spot = index(x, y)
     mark = state['mark']
 
@@ -40,44 +36,46 @@ def tap(x, y):
         hide[spot] = False
         hide[mark] = False
         state['mark'] = None
-
-def draw():
-    "Draw image and tiles."
+        if all(x == hide[0] for x in hide):
+            print("You win!")
+            print("If you want to play again, please restart the game.")
+        
+def paint():
     clear()
     goto(0, 0)
     shape(image)
     stamp()
 
-    for count in range(16):
+    for count in range(36):
         if hide[count]:
-            x, y = xy(count)
-            square(x, y)
+            x, y = location(count)
+            paintSquare(x, y)
 
     mark = state['mark']
 
     if mark is not None and hide[mark]:
-        x, y = xy(mark)
+        x, y = location(mark)
         up()
         goto(x + 2, y)
         color('white')
-        write(tiles[mark], font=('Arial', 60, 'normal'))
+        write(tiles[mark]+1, font=('Arial', 90))
 
     update()
-    ontimer(draw, 100)
+    ontimer(paint, 100)
 
+######################################
 
-imageList = ["123.gif", "456.gif", "789.gif", "car.gif"]
-image = path(choice(imageList))
-tiles = list(range(8)) * 2
+setup(920, 920, 300, 30)
+title("Matching game")
+tiles = list(range(18)) * 2
 state = {'mark': None}
-hide = [True] * 16
-
-
+hide = [True] * 36
 shuffle(tiles)
-setup(420, 420, 370, 0)
-addshape(image)
 hideturtle()
 tracer(False)
-onscreenclick(tap)
-draw()
+imageList = images.LoadImages.loadImages()
+image = path(choice(imageList))
+addshape(image)
+onscreenclick(leftClick)
+paint()
 done()
