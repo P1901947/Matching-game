@@ -20,7 +20,7 @@
 ### type of software development process is applied:
 - Waterfall
 ### Why we chose this type?
-- We chose the waterfall to become our software development process, as before we as a team, we did not know each other, and to ensure the quality of our project, we need to propose a full well plan, hence we chose waterfall as our software development process.
+- We chose the waterfall to become our software development process is because we want ensure the quality of the game. We never as a team before, we did not know each other's strengths. Therefore, to ensure the quality of our project, we need to propose a full well plan, hence we chose waterfall as our software development process.
 ### Possible usage of our software
 - Nowadays people have more stressful in daily life, no matter adult, student, or even children and usually, they do not have enough time to relax themself. Therefore we want to invent a game that is more time-efficient and simple to let everyone can take a rest anytime, anyplace. 
 
