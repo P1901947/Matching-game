@@ -9,7 +9,7 @@ def path(imageName):
     fullPath = os.path.join(directoryPath, 'images', imageName)
     return fullPath
 
-def paintSquare(x, y):
+def paintBox(x, y):
     up()
     goto(x, y)
     down()
@@ -49,7 +49,7 @@ def paint():
     for count in range(36):
         if hide[count]:
             x, y = location(count)
-            paintSquare(x, y)
+            paintBox(x, y)
 
     mark = state['mark']
 
