@@ -4,9 +4,13 @@
  ![image](https://user-images.githubusercontent.com/78846512/113375823-dd32a180-93a2-11eb-8cae-3ac63b34dae0.png)
 
 
-- Programming language: python
-- Minimum H/W: Supporting Officially python3.8 and above, Window 10 PCs
-- Required packages: python internal packages
+- Programming language: 
+  - python
+- Minimum H/W: 
+  - Supporting Officially python3.8 and above
+  - Window 10 PCs
+- Required packages: 
+  - python internal packages
 
 
 ## Purpose of the software includes
@@ -24,12 +28,12 @@
 ### Development Process
 - Planning-->Pre-production-->Production-->Testing-->~~Pre-launch-->Launch-->Post-production~~
 ### Members (Roles & Responsibilities & Portion)
-- Alex(P1901947)
+- Alex (P1901947)
   - Planning project
   - Design the game
   - Coding
   - Proofreading documentation
-- Mia(P1901966)
+- Mia (P1901966)
   - Planning project
   - Design the game
   - Write documentation
