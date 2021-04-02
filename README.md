@@ -4,7 +4,7 @@
 
 
 - Programming language: python
-- Minimum H/W: Supporting Officially python3.9 and above, Window 10 PCs
+- Minimum H/W: Supporting Officially python3.8 and above, Window 10 PCs
 - Required packages: python internal packages
 
 ## Purpose of the software includes
@@ -20,6 +20,7 @@
 - Planning-->Pre-production-->Production-->Testing-->~~Pre-launch-->Launch-->Post-production~~
 ### Members (Roles & Responsibilities & Portion)
 - Alex(P1901947)
+ * Coding
 - Mia(P1901966)
 
 ### Schedule
