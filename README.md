@@ -12,7 +12,7 @@
   - Window 10 ~~/ 8 / 7 or macOS (Not yet tested)~~
   - Python 3.8 and above ~~(versions that below 3.8 are not yet tested, but may work as well)~~
 - Required packages: 
-  - python internal packages
+  - Python standard library
 
 
 ## Purpose of the software includes
