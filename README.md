@@ -17,9 +17,10 @@
 
 ## Software development plan
 ### Development Process
-- Planning-->Pre-production-->Production-->Testing-->Pre-launch-->Launch-->Post-production
+- Planning-->Pre-production-->Production-->Testing-->~~Pre-launch-->Launch-->Post-production~~
 ### Members (Roles & Responsibilities & Portion)
-- Alex(P1901947) and Mia(P1901966)
+- Alex(P1901947)
+- Mia(P1901966)
 
 ### Schedule
 
