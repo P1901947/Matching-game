@@ -7,10 +7,14 @@
 ## Introduction
 
 ### A very simple game. Once you open our game, you will see 6 X 6 total 36 boxes. When you click a box, it will show you a number. All you need to do is matching those boxes with the same numbers. Once you findout a pair of boxes and click them, they will disappear, and you will see a part of the image which behide them. Finally, after you find and match all of them, you will see the full image.
-
 ### Our game are suppont customize image, But there are the following restrictions:
 - The size must be **900 X 900 pixels**.
 - The format of image must be **gif format**.
+
+
+## YouTube URL(Click it!!)
+
+
 
 ## Environments of the software development and running 
 
@@ -75,6 +79,7 @@
 
 
 ## Declaration
+
 ### The following are not created or developed by our group: 
 - Python 3.8.1
 - Python standard library
@@ -82,5 +87,3 @@
   - https://unsplash.com/
   - https://www.pexels.com/zh-tw/
 
-
-## YouTube URL(Click it!!)
