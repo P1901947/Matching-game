@@ -10,7 +10,7 @@
   - Recommend the hardware that can support officially python 3.8 and above.
 - software  requirement:
   - Window 10 ~~/ 8 / 7 or macOS (Not yet tested)~~
-  - Officially python 3.8 and above ~~(versions that below 3.8 not yet tested, but may work as well)~~
+  - Python 3.8 and above ~~(versions that below 3.8 are not yet tested, but may work as well)~~
 - Required packages: 
   - python internal packages
 
