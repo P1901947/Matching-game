@@ -6,15 +6,15 @@
 ## Introduction 
 A very simple game. Once you open our game, you will see 6 X 6 total 36 boxes. When you click a box, it will show you a number. All you need to do is matching those boxes with the same numbers. Once you findout a pair of boxes and click them, they will disappear, and you will see a part of the image which behide them. Finally, after you find and match all of them, you will see the full image.
 
-- Programming language: 
-  - python 3.8.1
-- Minimum Hardware:
-  - The hardware that can support official python 3.8 are recommended.
-- software  requirement:
-  - Window 10 ~~/ 8 / 7 or macOS (Not yet tested)~~
-  - Python 3.8 and above ~~(versions that below 3.8 are not yet tested, but may work as well)~~
-- Required packages: 
-  - Python standard library
+### Programming language: 
+- python 3.8.1
+### Minimum Hardware:
+- The hardware that can support official python 3.8 are recommended.
+### software  requirement:
+- Window 10 ~~/ 8 / 7 or macOS (Not yet tested)~~
+- Python 3.8 and above ~~(versions that below 3.8 are not yet tested, but may work as well)~~
+### Required packages: 
+- Python standard library
 
 
 ## Purpose of the software includes
