@@ -18,14 +18,14 @@
 
 ## Environments of the software development and running 
 
-### Programming language: 
+- Programming language: 
   - Python 3.8.1
-### Minimum Hardware:
+- Minimum Hardware:
   - The hardware that can support official python 3.8 are recommended.
-### software  requirement:
+- software  requirement:
   - Window 10 ~~/ 8 / 7 or macOS (Not yet tested)~~
   - Python 3.8 and above ~~(versions that below 3.8 are not yet tested, but may work as well)~~
-### Required packages: 
+- Required packages: 
   - Python standard library
 
 
