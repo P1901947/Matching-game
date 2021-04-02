@@ -3,7 +3,7 @@
 ## Graphical Abstract
  ![image](https://user-images.githubusercontent.com/78846512/113375823-dd32a180-93a2-11eb-8cae-3ac63b34dae0.png)
 
-##Introduction 
+## Introduction 
 A very simple game. Once you open our game, you will see 6 X 6 total 36 boxes. When you click a box, it will show you a number. All you need to do is matching those boxes with the same numbers. Once you findout a pair of boxes and click them, they will disappear, and you will see a part of the image which behide them. Finally, after you find and match all of them, you will see the full image.
 
 - Programming language: 
