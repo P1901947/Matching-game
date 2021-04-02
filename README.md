@@ -18,9 +18,9 @@
 ## Purpose of the software includes
 
 ### type of software development process is applied:
-- Waterfall
+- We chose the **waterfall** to become our software development process.
 ### Why we chose this type?
-- We chose the waterfall to become our software development process is because we want ensure the quality of the game. We never as a team before, we did not know each other's strengths. Therefore, to ensure the quality of our project, we need to propose a full well plan, hence we chose waterfall as our software development process.
+- It is because we want to ensure the quality of our game. We never as a team before, we did not know each other's strengths. Therefore, in order to ensure the quality of the project, we need to propose a full well plan, hence we chose waterfall as our software development process.
 ### Possible usage of our software
 - Nowadays people have more stressful in daily life, no matter adult, student, or even children and usually, they do not have enough time to relax themself. Therefore we want to invent a game that is more time-efficient and simple to let everyone can take a rest anytime, anyplace. 
 
