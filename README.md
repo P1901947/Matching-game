@@ -7,7 +7,7 @@
 - Programming language: 
   - python 3.8.1
 - Minimum Hardware:
-  - Recommend the hardware that can support officially python 3.8 and above.
+  - The hardware that can support official python 3.8 are recommended.
 - software  requirement:
   - Window 10 ~~/ 8 / 7 or macOS (Not yet tested)~~
   - Python 3.8 and above ~~(versions that below 3.8 are not yet tested, but may work as well)~~
