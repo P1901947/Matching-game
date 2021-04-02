@@ -41,6 +41,10 @@
   - Write documentation
   - Demo
 ### Schedule
+- Planning project - 1 Day
+- Design the game - 3 Days
+- Production / Coding - 6 Days
+- Write documentation & demo - 2 Days
 
 ### Algorithm
 - Python language
