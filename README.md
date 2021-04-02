@@ -15,7 +15,7 @@
 ## Environments of the software development and running 
 
 ### Programming language: 
-- python 3.8.1
+- Python 3.8.1
 ### Minimum Hardware:
 - The hardware that can support official python 3.8 are recommended.
 ### software  requirement:
@@ -72,6 +72,15 @@
   - Make the hidden box can match the image with different size automatically.
 - Long-term plan
   - In the future, we plan to add some new function to keep improving and maintaining our game, for example: rating and ranking system for all of the player to take the challenge, it will record and reward the fastest record in the world in different difficulties levels. Besides, we will advertise on different social media to keep attracting new players around the world. 
+
+
+## Declaration
+### The following are not created or developed by our group: 
+- Python 3.8.1
+- Python standard library
+- The 30 source images of our background images, which from:
+  - https://unsplash.com/
+  - https://www.pexels.com/zh-tw/
 
 
 ## YouTube URL(Click it!!)
