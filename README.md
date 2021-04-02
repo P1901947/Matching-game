@@ -44,16 +44,16 @@
 ### Development Process
 - Planning-->Pre-production-->Production-->Testing-->~~Pre-launch-->Launch-->Post-production~~
 ### Members (Roles & Responsibilities & Portion)
-- Alex (P1901947)
+- Alex (P1901947):
   - Planning project
   - Design the game
   - Coding
   - Proofreading documentation
-- Mia (P1901966)
+- Mia (P1901966):
   - Planning project
   - Design the game
   - Write documentation
-  - Demo
+  - Taking the demo
 ### Schedule
 - Planning project - 1 Day
 - Design the game - 3 Days
